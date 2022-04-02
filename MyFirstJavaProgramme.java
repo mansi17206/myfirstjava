@@ -21,8 +21,8 @@ public class MyFirstJavaProgramme {
         System.out.println("Bug and Bug life cycle");
         System.out.println("SeverityvsPriority");
         System.out.println("Test Scenrio");
-        System.out.println("Testing levels");
-     
+        System.out.println("Testing levels")
+         System.out.println("hello world")
 
 System.out.println("Software Developement Models");
    System.out.println("Automation Testining");
